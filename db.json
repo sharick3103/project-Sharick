@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sharick Olmos",
+      "email": "admin@riwi.io",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Juliana Castro",
+      "email": "coder@riwi.io",
+      "password": "coder123",
+      "role": "coder"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "User Flow Mapping",
+      "description": "Define the end-to-end journey for the new onboarding experience.",
+      "status": "done",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Style Guide v1",
+      "description": "Baseline UI tokens and shared components library established.",
+      "status": "todo",
+      "userId": 2
+    },
+    {
+      "title": "hola",
+      "description": "zzz",
+      "status": "in progress",
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
